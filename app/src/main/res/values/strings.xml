@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Upcoming Movies App</string>
+    <string name="loading_movies">Loading upcoming movies...</string>
+    <string name="loading_more_movies">Loading more upcoming movies...</string>
+    <string name="error_loading_movies">Ops! Something went wrong.</string>
+    <string name="error_loading_more">Error loading more upcoming movies</string>
+    <string name="error_no_connection">No connection found</string>
+    <string name="loading_details">Loading details...</string>
+    <string name="runtime_detail">%1$d min. </string>
+    <string name="overview">Overview</string>
+
+    <plurals name="subtitle_total_movies">
+        <item quantity="zero">no upcoming movies found</item>
+        <item quantity="one">%d upcoming movie found</item>
+        <item quantity="other">%d upcoming movies found</item>
+    </plurals>
+
+</resources>

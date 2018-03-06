@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_small">4dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_radius">1dp</dimen>
+
+    <dimen name="poster_thumb_width">72dp</dimen>
+    <dimen name="poster_thumb_height">96dp</dimen>
+    <dimen name="poster_thumb_detail_width">96dp</dimen>
+    <dimen name="poster_thumb_detail_height">120dp</dimen>
+
+    <dimen name="backdrop_height">200dp</dimen>
+
+    <dimen name="loading_movie_height">16dp</dimen>
+
+    <dimen name="button_radius">4dp</dimen>
+
+    <dimen name="custom_toast_padding">16dp</dimen>
+    <dimen name="custom_toast_text_size">15sp</dimen>
+    <dimen name="custom_toast_radius">50dp</dimen>
+</resources>
