@@ -2,7 +2,7 @@
 Sample app that shows list of movies from The Movie Database API (api.themoviedb.org/3)
 
 ### Architecture and Folder Structure
-The project was build and architec using the MVP (Model View Presenter) pattern and the directories are organized based on features.
+The project was build using the MVP (Model View Presenter) pattern and the directories are organized based on features.
 
 ### Library reference resources
 #### 1. Retrofit
